@@ -1,0 +1,2 @@
+# PowerJuice
+PowerJuice minigame plugin
