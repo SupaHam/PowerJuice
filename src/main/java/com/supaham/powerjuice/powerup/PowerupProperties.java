@@ -18,6 +18,7 @@ public final class PowerupProperties extends PropertiesWrapper {
         SerializationRegistrar.registerClass(IceShot.class);
         SerializationRegistrar.registerClass(RapidFire.class);
         SerializationRegistrar.registerClass(VolleyShot.class);
+        SerializationRegistrar.registerClass(Speed.class);
     }
     @Name("boom-shot")
     private BoomShot boomShot = new BoomShot();
